@@ -22,7 +22,8 @@
 <br/><br/>
 
 ### 🔐 Admin Login
-<img src="screenshots/mhadmin.png" alt="Admin Login" width="80%"/>
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/b68c58a7-a706-4030-85a2-47ba39ce911b" />
+
 <br/><br/>
 
 ### 🏡 Rooms & Suites
