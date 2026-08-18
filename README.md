@@ -26,7 +26,8 @@
 <br/><br/>
 
 ### 🏡 Rooms & Suites
-<img src="screenshots/mhrooms.png" alt="Rooms" width="80%"/>
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/763635d6-cae9-4126-beb7-536100fe61bc" />
+
 
 </div>
 
