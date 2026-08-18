@@ -17,7 +17,8 @@
 <div align="center">
   
 ### 🏠 Homepage
-<img src="screenshots/mhhome.png" alt="Homepage" width="80%"/>
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/a53d43e7-4917-4b6f-bbd1-2ee0ae7021c3" />
+
 <br/><br/>
 
 ### 🔐 Admin Login
